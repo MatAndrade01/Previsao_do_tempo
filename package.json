@@ -1,0 +1,15 @@
+{
+  "name": "previsao_do_tempo",
+  "version": "1.0.0",
+  "description": "Um app que mostra a previsão do tempo usando API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
